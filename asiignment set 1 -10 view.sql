@@ -1,0 +1,1 @@
+SELECT * FROM assignment.emp_sal;
